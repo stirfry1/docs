@@ -1,0 +1,8 @@
+{
+  "label": "Gateway",
+  "position": 120,
+  "link": {
+    "type": "generated-index",
+    "description": "Gateway Headings"
+  }
+}
