@@ -32,7 +32,7 @@ Tick this if you are an Agent for this employer.
 This will automatically mark each of the RTI XMLs with the agent details.\
 This will automatically encrypt the password on the XML sent.
 The Agents Clients Ref, which is required, is the agents own internal reference for the client.
-The agent needs to enter their details in Agent Info.
+In order for the above to work you also need to enter the agents details in the 'File/AgentInfo' form.
 
 Bureau\
 If you are not an agent but acting as a bureau then please tick the bureau box as well as the 'Send Emp Info'.

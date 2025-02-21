@@ -10,15 +10,15 @@ slug: /agent
 # Agent Information
 
 ## How to set up as an agent.
-The Agent details can now be automatically entered on to each XML sent online. This saves having to make the choice each time you send an XML.
+The Agent details can now be automatically entered on to each XML sent online. 
 
 In the 'EmployerDetails/TaxOffice' tab there is a tick box to declare that the sender is an agent. You can also fill in your own client reference to this employer.
+This results in the XML being sent as an Agent instead of as an Employer. It also means that if you need to change your online password you only need to enter it once here and it will be used in all the sent XMLs.
 
-In order for the above to work you also need to enter the agents details in the 'File/AgentInfo' form.
-The agent's online password is automatically encrypted. This allows you the opportunity to send the XML to your client without them being able to see the your password details.
+
 
 
 
  
 
-agentinfo 11/3/14
+agentinfo 15/10/25
