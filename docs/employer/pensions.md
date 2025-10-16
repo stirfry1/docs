@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Pensions'
-sidebar_position: 5
+sidebar_position: 3
 id: pensions
 title: pensions
 description: pensions info
@@ -11,7 +11,7 @@ slug: /pensions
 
 
 
-## This is pre Auto Enrollment Pensions
+### This is pre Auto Enrollment Pensions
 
 
 # DO NOT USE.
@@ -86,7 +86,9 @@ Admin Ref.
 Enter the pension company reference.
 
 See Also Company\Company Details Econ , Employee/Employee Details/Pension , CalcPay/Process Payroll
-
- 
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 pensiondetail 06/04/04

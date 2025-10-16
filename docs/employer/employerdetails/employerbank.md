@@ -9,23 +9,24 @@ slug: /employerbank
 
 # Bank
 
-## This is where the company bank details are entered.
-If you are using the option of making payments electronically  this information requires to be entered.\
-This information will be required if you are using any of the Bank Transfer options.\
-You can tell HMRC about your bank details via 'RTI/SendBankDetails'\
+### This is where the company bank details are entered.
+If you are using the option of making payments electronically this information requires to be entered.  
+This information will be required if you are using any of the Bank Transfer options.  
+You can tell HMRC about your bank details via 'RTI/SendBankDetails'  
 
-Bacs transfer type..........
+**Bacs** transfer type.......... 
 Different banks' software requires the raw information to be imputed differently.
 By choosing the type required by your bank, CalcPay will prepare a file in the right format to be accepted by your banks payment program.
 
 
-Last Y. Data\
+**Last Y. Data**  
 This is the folder where last years data is held.
 
-Holidays due Weeks/Days/Hours/
-Not recommended to use.
-
-
-
-
-bank 01/02/04
+**Holidays due Weeks/Days/Hours/**  
+You can show on the payslip the number of outstanding holidays that are due.You are not recommended to use this as you could be held responsible for any miscalculation.
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+employerbank 16/10/25
