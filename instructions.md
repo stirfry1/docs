@@ -6,6 +6,9 @@ Once you run npm run start, your browser will open to localhost:3000, and you’
 Change port:
 npm run start -- --host 0.0.0.0
 
+Build site:
+npm run build  
+
 Relative links:
 [Employer Tax Office](../employer/employerdetails/employertaxoffice.md)
 See also [Agent Info](../../file/agentinfo.md)

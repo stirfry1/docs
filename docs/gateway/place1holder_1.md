@@ -1,10 +1,10 @@
 ---
-sidebar_label: 'PlaceHolder'
+sidebar_label: 'Place1Holder'
 sidebar_position: 10
-id: placeholder
-title: placeholder
-description: placeholder info
-slug: /Placeholder
+id: place1holder
+title: place1holder
+description: place1holder info
+slug: /Place1holder
 ---
 
 #Multi Employer

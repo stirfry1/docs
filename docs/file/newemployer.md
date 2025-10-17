@@ -8,7 +8,7 @@ slug: /newemployer
 ---
 
 # This is where you create a new employer.
-You can have up to 2/1000 employers depending on your licence.
+### You can have up to 2/1000 employers depending on your licence.
 
 **New Employer Name**  
 Enter the name of the Employer.
@@ -21,10 +21,9 @@ Directory of new employer
 A new folder (directory) will be created which will sit under PAYxx directory where xx is the employer no.
 
 Go to Employer/EmployerDetails to enter all the details of the new employer.
-
-
-
-
-
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 newemployer 15/10/25

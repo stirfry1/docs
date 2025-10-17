@@ -17,16 +17,18 @@ function HomepageHeader() {
         </Heading>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons}>
-          {/* <Link
+          {
+           <Link
             className="button button--secondary button--lg"
-            to="/docs/intro">
-            Docusaurus Tutorial - 5min ⏱️
-          </Link> */}
-          <Link
-            className="button button--primary button--lg"
-            to="/docs/welcome">
+            to="/docs/docs/welcome">
             Get Started
-          </Link>
+          </Link> 
+          // <Link
+          //   className="button button--primary button--lg"
+          //   to="/docs/docs/welcome.md">
+          //   Get Started
+          // </Link>
+          }
         </div>
       </div>
     </header>
@@ -41,7 +43,7 @@ export default function Home() {
       description="Description will go into a meta tag in <head />">
       <HomepageHeader />
       <main>
-        Docusaurus Tutorial <HomepageFeatures />
+        {/* Docusaurus Tutorial <HomepageFeatures /> */}
       </main>
     </Layout>
   );

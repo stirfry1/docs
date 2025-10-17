@@ -31,11 +31,10 @@ Once you have chosen your file, the data will be copied into a temp folder, chec
 **Not used**  
 If you have the Registration Code of another CalcPay customer, you can enter that here in order to decrypt their backup zip file.
 
-
-
-See also [Backup](./backup)
-
-
-
-
+See also [Backup](./backup.md)
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 restore 16/10/25

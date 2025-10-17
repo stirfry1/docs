@@ -22,15 +22,12 @@ The 'Apprentice Levy Allowance is 15,000.00 for 17_18 and onward. If you have 'c
 
 The Apprentice Levy % is 0.50%.
 
-
-
 Further details:
 https://www.gov.uk/guidance/pay-apprenticeship-levy
 
 icaew.com article
 https://www.gov.uk/hmrc-internal-manuals/apprenticeship-levy
 
-Who Pays
 The levy will be charged at a rate of 0.5% of an employer’s pay bill but there is an annual allowance of £15,000 to offset against this. So, in practical terms, subject to the connected companies and charities rules, only employers with annual pay bills greater than £3 million will pay the levy.
 
 For the purposes of the levy, an employer’s pay bill is all of those employee earnings liable to Class 1 secondary National Insurance contributions (NICs)
@@ -51,9 +48,7 @@ The detail of the Pay Bill can be found in:
 **How do I report the apprenticeship levy?**  
 Employers only need to report the apprenticeship levy to HMRC if they are likely to have a liability to pay it. This will be where their annual pay bill in the previous tax year that was liable to Class 1 secondary NICs was over £2.8 million, or they believe it will be over £3 million in the current year, or, for connected employers who allocate the allowance across their group and the allocation is such that the employer believes they are liable to pay the levy
 
-The levy will be reported as part of the normal payroll process using the Employer Payment Summary (EPS)
-
-
+The levy will be reported as part of the normal payroll process using the Employer Payment Summary (EPS). Once you start reporting, you must include an EPS every month.
 
 **Connected companies and charities.**  
 The government has made an amendment to the Finance Bill 2016 to allow connected companies or charities to share the levy allowance between them,
@@ -66,7 +61,8 @@ Apprenticeship levy-Spec-Guidance Pack v1 6.docx
 **Employment Allowance.**  
 If this is ticked then you are currently claiming E.A., the date will show when you started the claim.  
 In order to start claiming E.A. you need to tell HMRC. Do this via 'RTI/EmploymentAllowance'.  
-If you have taken over a payroll which has previously claimed the E.A then you can manually tell CalcPay here, ie without resending another 'RTI/EmploymentAllowance'.
+If you have taken over a payroll which has previously claimed the E.A then you can manually tell CalcPay here, ie without resending another 'RTI/EmploymentAllowance'.  
+If you have **NOT** taken over the employer, then make a claim for E.A. via 'RTI/EmploymentAllowance'.  
 <br/>
 <br/>
 <br/>

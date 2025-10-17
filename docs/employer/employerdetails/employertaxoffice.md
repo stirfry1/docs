@@ -9,7 +9,7 @@ slug: /employertaxoffice
 
 # Tax Office
 
-### This records details of who the tax office is,where you pay Tax & NIC to and for Internet submissions what your ID & password is.
+### This records details of who the tax office is,where you pay Tax & NIC to and for RTI submissions what your ID & password is.
 
 **Tax / Paye Ref.**  
 The Tax no is first 3 numeric digits.  
@@ -17,8 +17,8 @@ The Paye Ref is HMRC's reference to you.
 This information is required on all reports to the HMRC.
 The information can be found from the Payslip Booklet under 'Employer's PAYE reference'.
 
-**User ID**
-<!-- This is your reference ID you obtained when registering to use the Government Gateway. It is 12 digits long. -->
+**User ID**  
+This is your reference ID you obtained when registering to use the Government Gateway. It is 12 digits long.
 
 **Password**  
 This is your password re the above. It is shown as * when entered.  
@@ -26,7 +26,7 @@ Right-Click on it if you want to see it in plain text.
 
 **Send Emp Info**  
 Tick this if you want to send the employer contact on each of the RTI XMLs.  
-The surname is required.
+The surname will be required.
 
 **Send as Agent**  
 Tick this if you are an Agent for this employer.  

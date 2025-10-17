@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'CalcPay Docs',
+  title: 'CalcPay Help',
   tagline: 'Get Information About CalcPay',
   favicon: 'img/favicon.ico',
 
@@ -18,7 +18,7 @@ const config = {
   url: 'https://www.calcpay.co.uk',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/docs',
+  baseUrl: '/docs/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -82,18 +82,24 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
+          // {
+          //   type: 'doc',
+          //   docId: 'welcome',   // file name (no .md)
+          //   label: 'Tutorial',
+          //   position: 'left',
+          // },
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
             label: 'Tutorial',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
-          },
+          // {to: '/blog', label: 'Blog', position: 'left'},
+          // {
+          //   href: 'https://github.com/facebook/docusaurus',
+          //   label: 'GitHub',
+          //   position: 'right',
+          // },
         ],
       },
       footer: {

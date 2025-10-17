@@ -9,7 +9,7 @@ slug: /multiemployer
 
 # Multi Employer
 
-## This is where you choose which employer you are working on.
+### This is where you choose which employer you are working on.
 **Double Left Click** the Employers Name line.   
 Left Click the employer name & Click OK or Enter.  
 Enter a number & click OK or Enter. 
@@ -26,5 +26,9 @@ S.E = Small Employer claimed.  This is where the employer pays less that £45,00
 E.A. = Employers Allowance claimed. This is where the employer has claimed the Employment Allowance.
 
 You can change the order that the employers are displayed via the Numeric, Alpha, Tax no, Paye Ref checkbox.
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 multiemployer 16/10/25
