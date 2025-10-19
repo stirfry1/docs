@@ -15,8 +15,7 @@ slug: /employeesspsl
 
 This is available to any employee with income over the Lower Earning Threshold. From 5/4/26 there is no longer a minimum amount.
 
-<a href="https://www.gov.uk/statutory-sick-pay" target="_blank" rel="noopener noreferrer">Gov.uk/SSP</a>
-
+<a href="https://www.gov.uk/statutory-sick-pay" target="_blank" rel="noopener noreferrer">Gov.uk/SSP</a>  
 
 **S. day pattern**  
 This takes you to a separate form (SSP Work Days ) to enter the work day pattern.
@@ -50,7 +49,7 @@ This is where your employee must repay their education loans from their income. 
 
 CalcPay will do all the calculations of the S.L.D. for you. You must however inform it as to when to start & when to finish.
 
-<a href="https://www.gov.uk/guidance/special-rules-for-student-loans" target="_blank" rel="noopener noreferrer">Gov.uk/SLD</a>
+<a href="https://www.gov.uk/guidance/special-rules-for-student-loans" target="_blank" rel="noopener noreferrer">Gov.uk/SLD</a>  
 
 **Apply Student Loan Deduction**\
 You must start  S.L.D., when you receive either
