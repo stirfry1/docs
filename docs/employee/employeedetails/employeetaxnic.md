@@ -4,7 +4,7 @@ sidebar_position: 20
 id: tax_nic
 title: tax_nic
 description: tax_nic info
-slug: /employeetax_nic
+slug: /employeetaxnic
 ---
 
 # Employee Details Tax & NIC

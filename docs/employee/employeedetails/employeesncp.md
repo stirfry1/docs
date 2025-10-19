@@ -4,7 +4,7 @@ sidebar_position: 72
 id: sncp
 title: sncp
 description: sncp info
-slug: /employeesnc 
+slug: /employeesncp 
 ---
 
 # Employee Details S.N.C.P.
@@ -16,7 +16,7 @@ For employees in England, Scotland, and Wales who have a baby requiring a contin
 HMRC calculator may show the calculation on a daily basis, CalcPay calculates on a weekly basis, the week needs to be completed in the pay period.
 
 <!-- [Gov.uk/SNCP](https://www.gov.uk/neonatal-care-pay){:target="_blank"} -->
-	<a href="https://www.gov.uk/neonatal-care-pay" target="_blank" rel="noopener noreferrer">Gov.uk/SNCP</a>
+<a href="https://www.gov.uk/neonatal-care-pay-leave" target="_blank" rel="noopener noreferrer">Gov.uk/SNCP</a>
 
 **Apply S.N.C.P.**  
 Tick this to enable the boxes below.

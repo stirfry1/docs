@@ -1,10 +1,10 @@
 ---
-sidebar_label: 'P11'
+sidebar_label: 'P11plus'
 sidebar_position: 140
-id: p11+
-title: p11+
+id: p11plus
+title: p11plus
 description: p11+ info
-slug: /employeep11+ 
+slug: /employeep11plus
 ---
 
 # Employee Details P11
@@ -26,4 +26,4 @@ Employer Costs. NIC, Pension, Total
 <br/>
 <br/>
 <br/>
-employeep11+ 17/10/25
+employeep11plus 17/10/25
