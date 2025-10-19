@@ -9,14 +9,14 @@ slug: /employeenotes
 
 # Employee Notes
 
-## This is where you can read & write to your employee's notes.
+### This is where you can read & write to your employee's notes.
 There are 3 edit boxes.
 
-The Top Left is what you have entered on payslips to this employee.
+The Top Left is what you have entered on payslips to **THIS** employee.
 
-The Bottom Left is what you have entered on payslips to all your employees.
+The Bottom Left is what you have entered on payslips to **ALL** your employees.
 
-The Right is notes that you have entered for this employee.
+The Right is notes that you have entered for this employee, for your information.
 
 You can enter a new Note via the 'Add Note' button.
 Once a note has been added you cannot change or delete it.
@@ -26,5 +26,9 @@ You can print out the Employees Notes via the 'Print Notes' button.
 see also:
 Payslip Note for everyone
 Payslip Note Individual
-
-29/5/08 employeedetailsnotes
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+employeenotes 17/10/25

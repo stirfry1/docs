@@ -1,38 +1,31 @@
 ---
-sidebar_label: 'SPP'
+sidebar_label: 'SNCP'
 sidebar_position: 72
-id: spp
-title: spp
-description: spp info
-slug: /employeespp 
+id: sncp
+title: sncp
+description: sncp info
+slug: /employeesnc 
 ---
 
-# Employee Details S.P.P.
+# Employee Details S.N.C.P.
 
-### ORDINARY STATUTORY PATERNITY PAY
+### STATUTORY NEONATAL CARE PAY
 
-Where the employee is a partner (need not be a man) of a person who is expecting or adopting a child, they are entitled to up to 2 weeks paid leave. See SPP  for further information
+For employees in England, Scotland, and Wales who have a baby requiring a continuous period of at least seven days of neonatal care. 
 
 HMRC calculator may show the calculation on a daily basis, CalcPay calculates on a weekly basis, the week needs to be completed in the pay period.
 
-[Gov.uk/SSP](https://www.gov.uk/employers-sick-pay){:target="_blank"}
+[Gov.uk/SNCP](https://www.gov.uk/neonatal-care-pay){:target="_blank"}
 
-**Apply S.P.P.**  
+**Apply S.N.C.P.**  
 Tick this to enable the boxes below.
 
-**Child Birth / Adoption**  
-Leave unticked if it is a Child Birth.  
-Tick this if the paternity is adoption leave of a partner. If it is re an adoption please read EWC as Matching Week (MW) and Childbirth as Date of Placement (DoP).
-
-**Expected week of Childbirth / Adoption Matching Week**  
-This is the week that the ChildBirth is due. The date is entered via the 'Avg Pay' button (see below). You require to be notified of this.
-
-**Avg. Pay**  
+**Calculate Average Pay**  
 This brings up the Average of 8 weeks pay form, when you enter the date, the amounts of previous pay should come up, which can be altered.
 The average pay is calculated and brought back to the main form.
 
-**Date of Birth / Placement**  
-Not allowed to start leave till this date.
+**Weeks Claimed**  
+No of weeks to be claimed.
 
 **Date of first week starts**  
 Enter the date. CalcPay will use this date to start paying SPP.
@@ -54,12 +47,12 @@ You can manually tick it to prevent any more calculations.
 **RTI/EPS**  
 This must be sent in for each month you are claiming SPP.
 
-**Records re SPP,**  
+**Records re SNCP,**  
 The payment details of the above are recorded on the P11 & P14. You should keep a note of weeks not paid.  
-CalcPay will automatically calculate the recovery of SPP in the P30 monthly payments, please ensure that, if you are a 'Small Employer', you have ticked  'Allowed small employers relief' in 'Employer/Employer Details'.
+CalcPay will automatically calculate the recovery of SNCP in the P30 monthly payments, please ensure that, if you are a 'Small Employer', you have ticked  'Allowed small employers relief' in 'Employer/Employer Details'.
 <br/>
 <br/>
 <br/>
 <br/>
 <br/>
-employeespp 17/10/25
+employeesncp 17/10/25

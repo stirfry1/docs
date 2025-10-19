@@ -9,21 +9,23 @@ slug: /employeepayextra
 
 # Employee Details Pay Extra
 
-PAY EXTRA\
-This is the same as Pay Items except you go to Company/Pay Headings/Additions & Deductions if a new 'Description' type is required.\
-These amounts will show up in the additions in the reports.
-If you wish an item to be a deduction enter it as a minus.
-These amounts will not be used in the Tax or NIC calculations.
+### An employees non pay items.
+
+**PAY EXTRA**  
+This is the same as Pay Items except you go to Employer/Pay Headings/Additions & Deductions if a new 'Description' type is required.  
+These amounts will show up in the 'Pay+' in the reports.
+If you wish an item to be a deduction, ie Union Fees, enter it as a minus.  
 
 
-Non Cash Items.(Benefits in Kind)
-These figures only adjust the calculation of the Taxable and/or Nicable figures.
-Payrolled AND Class1 Nic: a figure entered here will increase the Taxable and Nicable calculation.
-Payrolled ie increase the TaxAble Amout Only: a figure entered here will increase the Taxable calculation.
-Class1 Nic Only ie Adjust NicAble Amount: a figure entered here will increase the Nicable calculation.
+
+**Non Cash Items**.(Benefits in Kind)
+These figures only adjust the calculation of the Taxable income.
+**Payrolled P11Ds** a figure entered here will increase the Taxable  calculation in the payrun. Enter the weekly/monthly amount.
+
 http://www.hmrc.gov.uk/guidance/cwg2chapter5.pdf
-
-
-
-
-employeedetailspay 23/03/13
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+employeepayextra 17/10/25
