@@ -15,7 +15,8 @@ Where the employee is a partner (need not be a man) of a person who is expecting
 
 HMRC calculator may show the calculation on a daily basis, CalcPay calculates on a weekly basis, the week needs to be completed in the pay period.
 
-[Gov.uk/SSP](https://www.gov.uk/employers-sick-pay){:target="_blank"}
+<!-- [Gov.uk/SSP](https://www.gov.uk/employers-sick-pay){:target="_blank"} -->
+<a href="https://www.gov.uk/employers-sick-pay" target="_blank" rel="noopener noreferrer">Gov.uk/SPP</a>
 
 **Apply S.P.P.**  
 Tick this to enable the boxes below.

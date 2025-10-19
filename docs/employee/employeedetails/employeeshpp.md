@@ -16,7 +16,8 @@ When an employee / employee's partner returns to work from SMP/SAP  without taki
 
 HMRC calculator may show the calculation on a daily basis, CalcPay calculates on a weekly basis, the week needs to be completed in the pay period.
 
-[Gov.uk/ShPP](https://www.gov.uk/shared-parental-leave-and-pay){:target="_blank"}
+<!-- [Gov.uk/ShPP](https://www.gov.uk/shared-parental-leave-and-pay){:target="_blank"} -->
+<a href="https://www.gov.uk/shared-parental-leave-and-pay" target="_blank" rel="noopener noreferrer">Gov.uk/ShPP</a>
 
 **Add New Parenting** 
 This will add a new ShPP.

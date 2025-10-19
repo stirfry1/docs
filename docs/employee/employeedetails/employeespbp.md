@@ -15,7 +15,8 @@ You have a legal right to two weeks of paid or unpaid leave if your child dies u
 
 HMRC calculator may show the calculation on a daily basis, CalcPay calculates on a weekly basis, the week needs to be completed in the pay period.
 
-[Gov.uk/SPBP](https://www.gov.uk/parental-bereavement-pay){:target="_blank"}
+<!-- [Gov.uk/SPBP](https://www.gov.uk/parental-bereavement-pay){:target="_blank"} -->
+<a href="https://www.gov.uk/parental-bereavement-pay" target="_blank" rel="noopener noreferrer">Gov.uk/SPBP</a>
 
 **Apply S.P.B.P.**  
 Tick this to enable the boxes below.

@@ -15,7 +15,8 @@ When an employee takes time off to adopt a child or have a child through a surro
 
 HMRC calculator may show the calculation on a daily basis, CalcPay calculates on a weekly basis, the week needs to be completed in the pay period. 
 
-[Gov.uk/SAP](https://www.gov.uk/adoption-pay-leave){:target="_blank"}
+<!-- [Gov.uk/SAP](https://www.gov.uk/adoption-pay-leave){:target="_blank"} -->
+<a href="https://www.gov.uk/adoption-pay-leave" target="_blank" rel="noopener noreferrer">Gov.uk/SAP</a>
 
 **Statutory Adoption Pay**  
 Where the employee is adopting a child they are entitled to up to 39 weeks paid leave.

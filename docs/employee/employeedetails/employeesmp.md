@@ -15,7 +15,8 @@ Statutory Maternity Pay (SMP) is paid for up to 39 weeks.
 
 HMRC calculator may show the calculation on a daily basis, CalcPay calculates on a weekly basis, the week needs to be completed in the pay period.
 
-[Gov.uk/SMP](https://www.gov.uk/maternity-pay-leave){:target="_blank"}
+<!-- [Gov.uk/SMP](https://www.gov.uk/maternity-pay-leave){:target="_blank"} -->
+<a href="https://www.gov.uk/maternity-pay-leave" target="_blank" rel="noopener noreferrer">Gov.uk/SMP</a>
 
 **Apply S.M.P.**  
 Tick this to enable the boxes below.
