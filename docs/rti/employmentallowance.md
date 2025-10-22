@@ -7,41 +7,39 @@ description: employmentallowance info
 slug: /employmentallowance
 ---
 
-# Claim Employment Allowance
+# Claim Employment Allowance.
+
+### This allows you to recover the first £10,500.00 of Employers NIC payments.
+
+To check for eligibility please read this info.  
+https://www.gov.uk/government/publications/employment-allowance-more-detailed-guidance
 
 
-
-## HMRC allows you to recover the first £5000.00 of Employers NIC payments
-
-
-
-To check for eligibility please read this info.
-
-
-To claim you need to:\
-Tick  'Tick if eligible for the allowance'.\
-'Prepare XML'.\
-'SendToHMRC'.\
+To claim you need to:  
+Tick  'Tick if eligible for the allowance'.  
+do the **State Aid Declaration**  
+'Prepare XML'.  
+'SendToHMRC'.  
 This will then show the amounts of NIC that can be recovered in the 'Reports/P32' forms.
 
-You need to claim this every year.
+You need to claim this **EVERY** year.
 
 
 
 To UNCLAIM
-UNTICK 'Tick if eligible for the allowance'.\
-'Prepare XML'/\
-'SendToHMRC'.\
+UNTICK 'Tick if eligible for the allowance'.  
+'Prepare XML'  
+'SendToHMRC'.  
 The 'Reports/P32' will no longer show the E.A. amounts.
 
 
 
-The 'Employer/EmployerDetails/Employment Allowance' will reflect the current position.
+The 'Employer/EmployerDetails/ApprenticeLevy', 'Employment Allowance' will reflect the current position.
 If you have taken over an employer which has previously sent in a E.A. claim you can manually adjust this here.
-
-
-
-
-
-rtiemploymentallowance  12/04/16
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+employmentallowance  17/10/25
 

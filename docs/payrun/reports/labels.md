@@ -1,15 +1,13 @@
----
-sidebar_label: 'Income Details'
-sidebar_position: 100
-id: incomedetails
-title: incomedetails
-description: incomedetails info
-slug: /incomedetails
+sidebar_label: 'Labels'
+sidebar_position: 80
+id: labels
+title: labels
+description: labels info
+slug: /labels
 ---
 
-# Displays Pay Headings.
-
-### Displays Pay Headings worked for each employee.
+# Setup labels
+### Setup and print labels for employees.
 
 **Range**  
 Select From & To if you wish to restrict the employees.
@@ -25,5 +23,4 @@ Extra lets you save as a PDF, but you can also do this by Printing to 'Microsoft
 <br/>
 <br/>
 <br/>
-incomedetails 17/10/25
-
+labels 17/10/25

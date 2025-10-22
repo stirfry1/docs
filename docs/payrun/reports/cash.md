@@ -7,5 +7,12 @@ description: cash info
 slug: /cash
 ---
 
-# Set the employee order
+# Cash
 
+### Get the denominations to use in the cash payslips.
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+cash 17/10/25
