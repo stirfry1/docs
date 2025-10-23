@@ -1,10 +1,10 @@
 ---
-sidebar_label: 'Payslip Comercial'
+sidebar_label: 'Payslip Commercial'
 sidebar_position: 50
-id: payslipcomercial
-title: payslipcomercial
-description: payslipcomercial info
-slug: /payslipcomercial
+id: payslipcommercial
+title: payslipcomemrcial
+description: payslipcomemrcial info
+slug: /payslipcommercial
 ---
 
 # Get the Sage/Iris payslip layout 
@@ -34,5 +34,5 @@ The payslip Layout can be changed in 'Reports/Modify Reports'.
 <br/>
 <br/>
 <br/>
-payslipcomercial 17/10/25
+payslipcommercial 17/10/25
 

@@ -7,9 +7,9 @@ description: incomedetails info
 slug: /incomedetails
 ---
 
-# Displays Pay Headings.
+# Displays Pay Headings values.
 
-### Displays Pay Headings worked for each employee.
+### Displays Pay Headings values for each employee, Amount, Rate and Total.
 
 **Range**  
 Select From & To if you wish to restrict the employees.

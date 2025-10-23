@@ -9,7 +9,7 @@ slug: /transfer
 
 # employees paid by transfer
 
-### A list od employees paid by bank transfer.
+### A list of employees paid by bank transfer.
 
 **Prepare Bank File**  
   **Range**  

@@ -1,10 +1,10 @@
 ---
 sidebar_label: 'All Payments'
 sidebar_position: 70
-id: allpayments
-title: allpayments
-description: allpayments info
-slug: /allpayments
+id: allpay
+title: allpay
+description: allpay info
+slug: /allpay
 ---
 
 # Report for ALL payments to employees 
@@ -29,4 +29,4 @@ The Layout can be changed in 'Reports/Modify Reports'.
 <br/>
 <br/>
 <br/>
-payslip8 17/10/25
+allpay 17/10/25

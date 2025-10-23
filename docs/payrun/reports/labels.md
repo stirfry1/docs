@@ -1,3 +1,4 @@
+---
 sidebar_label: 'Labels'
 sidebar_position: 80
 id: labels
@@ -8,7 +9,7 @@ slug: /labels
 
 # Setup labels
 ### Setup and print labels for employees.
-
+ 
 **Range**  
 Select From & To if you wish to restrict the employees.
 

@@ -7,11 +7,11 @@ description: payslipold info
 slug: /payslipold
 ---
 
-# Get the 8 item payslip layout 
+# Get the old 8 item payslip layout 
 
-### Output Choices for 8 Item Payslips.
+### Output Choices for old 8 Item Payslips.
 
-The payslip layouts are no longer supported.
+**The payslip layouts are no longer supported.**  
 These payslips show 7 detail lines of pay headings with the final one 'Other' showing the totals of headings 8+.
 
 **Range**  
@@ -44,5 +44,5 @@ The payslip Layout can be changed in 'Reports/Modify Reports'.
 <br/>
 <br/>
 <br/>
-payslip8 17/10/25
+payslipold 17/10/25
 
