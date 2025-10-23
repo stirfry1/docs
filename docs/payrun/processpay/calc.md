@@ -25,7 +25,7 @@ Enter a deduction as a minus figure.
 **Description  Payment type Unit  Rate**  
 Each time the Unit or Rate is changed the program recalculates all the totals.
 
-**Totals / Total T.D.**  
+**Totals / Total TD**  
 These figures are calculated, they are read only figures.
 
 **A.P.H.**  
@@ -80,7 +80,7 @@ There must be a figure in the other column in order for it to do the calculation
 
 The program will display the various totals.
 
-Use the **Next '>'  Prev '<'** button to advance etc.
+Use the Next >  Prev < button to advance etc.
 
 If the TAX amount is negative you will have the option of to 'Disallow Rebate' the refund. The refund will be carried forward to the next payment calculation.
 
