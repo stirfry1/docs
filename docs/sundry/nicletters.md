@@ -9,29 +9,31 @@ slug: /nicletters
 
 # Nic Letters
 
-## Info re Nic Letter
-**Letter A**\
+### Info re Nic Letter
+
+**Letter A**  
 Use this Letter for all employees aged 21 to State Pension Age.
-On earnings over between PT and UEL they pay the default rate and the employer pays employer rate.\
+On earnings over between PT and UEL they pay the default rate and the employer pays employer rate.  
 On earnings over UEL they pay 2% and the employer pays employer rate.
 
-**Letter B**\
-Use this Letter for married women or widows.\
+**Letter B**  
+Use this Letter for married women or widows.  
+Until April 1977, married women could choose to pay a reduced rate of NICs. They might still be paying the reduced rate if she opted in before the scheme ended.  
 • aged under State Pension Age, and\
 • who are entitled to pay employee’s contributions at the reduced rate.
-For these women, you must have a valid\
-• form CA4139 or CF383, Certificate of Election, or\
-• form CF380A, Certificate of Reduced Liability.\
-On earnings over between PT and UEL they pay the 1.8% and the employer pays 15.0%\
-On earnings over UEL they pay 2% and the employer pays 15.0%
+For these women, you must have a valid:  
+• form CA4139 or CF383, Certificate of Election, or  
+• form CF380A, Certificate of Reduced Liability.  
+On earnings over between PT and UEL they pay the reduced rate and the employer pays default rate.  
+On earnings over UEL they pay 2% and the employer pays default rate.
 
-**Letter C**\
-Use this Letter for employees OVER State Pension Age, for whom you hold a valid certificate CA4140 or CF384.\
-On earnings over between PT and UEL they pay the 0% and the employer pays 15.0%.\
-On earnings over UEL they pay 0% and the employer pays 15.0%
+**Letter C**  
+Use this Letter for employees OVER State Pension Age, for whom you hold a valid certificate CA4140 or CF384.  
+On earnings over between PT and UEL they pay the 0% and the employer pays default rate.  
+On earnings over UEL they pay 0% and the employer pays default rate.
 
-**Letter J**\
-Employees who can defer National Insurance because they’re already paying it (over UEL) in another job.\
+**Letter J**  
+Employees who can defer National Insurance because they’re already paying it (over UEL) in another job.  
 On earnings over between PT and UEL they pay the 2% for earnings over UEL and the employer pays 15.0%.\
 On earnings over UEL they pay 2% and the employer pays 15.0%
 

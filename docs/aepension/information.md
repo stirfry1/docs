@@ -15,22 +15,18 @@ slug: /information
 
 There are two different methods, Net Pay Arrangement and Relief At Source.
 
-
-
-**Relief At Source** is used by:\
-Nest\
-Peoples Pension defaults to this.\
-Legal and General\
-True Potential, TPLLP\
+**Relief At Source** is used by:  
+Nest  
+Peoples Pension defaults to this.  
+Legal and General  
+True Potential, TPLLP  
 Royal London
 
-
-
-**Net Pay Arrangement** is used by:\
-Now\
-Creative Pension\
-Smart Pension\
-Peoples Pension can be changed to use this with special permission.
+**Net Pay Arrangement** is used by:  
+Now  
+Creative Pension  
+Smart Pension  
+Peoples Pension can be changed to use this after getting special permission.
 
 Examples of Relief@Source & NetPayArrangment.
 | Relief     | at     | Source  |   | Net Pay | Arrangement |   |
@@ -41,35 +37,21 @@ Examples of Relief@Source & NetPayArrangment.
 | Pension C. | 12.08  | 387.48  |   | 15.10   | 378.50      |   |
 | Net Pay    |        | 1621.52 |   |         | 1621.50     |   |
 
-
-
-
-
 * Qualifying Earnings assessment  2000.00-490.00= 1510.00
-
   1% less Basic Rate @ 0.8% of 1510.00 = £12.08
 
++ The Pension Provider receives the 12.08
 
++ the employers contribution 15.10
 
-The Pension Provider receives the  12.08
-
-+ the employers contribution           15.10
-
-+ Government contribution of 20%   3.02
++ Government contribution of 20% 3.02
 
 Saved in to the PP scheme              £30.20
 
-
-
-
-
 * Qualifying Earnings assessment  2000.00-490.00= 1510.00
-
   1% of 1510.00 = £15.10
 
 * Tax is calculated on 2000.00-15.10 = 1984.90
-
-
 
 The Pension Provider receives the  15.10
 
@@ -78,15 +60,14 @@ The Pension Provider receives the  15.10
 Saved in to the PP scheme              £30.20
 
 
-
-
-
 As can be seen the calculations result in the same figures, the odd variation of 2pence will resolve itself over the year.
 
-**There are, however, two fundamental differences:**\
-One, When an employee has Higher/Additional earnings then with a Net Pay Arrangement they will get automatic tax relief whereas with a Relief at Source scheme they will have to claim back from HMRC their overpayment of tax.
+**There are, however, two fundamental differences:**  
+  1, When an employee has Higher/Additional earnings then with a Net Pay Arrangement they will get automatic tax relief whereas with a Relief at Source scheme they will have to claim back from HMRC their overpayment of tax.
 
-Two, When there are employees NOT paying tax then they will get NO tax benefit from a Net Pay Arrangement. In a Relief at Source scheme the PP will still get the 20% notional tax from HMRC.
+  2, When there are employees NOT paying tax then they will get NO tax benefit from a Net Pay Arrangement. In a Relief at Source scheme the PP will still get the 20% notional tax from HMRC.
+
+
 
 
 
@@ -109,3 +90,9 @@ http://www.scottishwidows.co.uk/Extranet/Literature/Doc/FP0491
 
 
 https://www.gov.uk/workplace-pensions
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+information 23/10/25
