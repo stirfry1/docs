@@ -14,8 +14,6 @@ slug: /contributions
 You **Choose** what payrun you are sending.
 
 You click on the **Pension Scheme** and hit **Proceed**
-<br>
- 
 
 This will present you with a grid where you can **Choose** which employees to send.
 
