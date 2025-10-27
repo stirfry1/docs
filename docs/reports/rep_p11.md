@@ -1,9 +1,9 @@
 ---
-sidebar_label: 'p11l'
+sidebar_label: 'P11l'
 sidebar_position: 40
-id: p11
-title: p11
-description: p11 info
+id: rep_p11
+title: rep_p11
+description: rep_p11 info
 slug: /rep_p11
 ---
 

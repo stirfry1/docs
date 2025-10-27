@@ -1,9 +1,9 @@
 ---
 sidebar_label: 'P32 Hmrc'
 sidebar_position: 71
-id: p32hmrc
-title: p32hmrc
-description: p32hmrc info
+id: p32_hmrc
+title: p32_hmrc
+description: p32_hmrc info
 slug: /rep_p32_hmrc
 ---
 

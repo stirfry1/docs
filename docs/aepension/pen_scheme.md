@@ -1,10 +1,10 @@
 ---
 sidebar_label: 'Pension Scheme'
 sidebar_position: 20
-id: pensionscheme
-title: pensionscheme
-description: pensionscheme info
-slug: /aepension/pensionscheme
+id: pen_scheme
+title: pen_scheme
+description: pen_scheme info
+slug: /aepension/pen_scheme
 ---
 
 # Pensions Schemes
@@ -76,4 +76,4 @@ See Also [Employee/EmployeeDetails/Pension](../employee/employeedetails/employee
 | Upper level of qualifying earnings       | £50,270 | £967   | £1,934    | £3,867  | £4,189  |
 
 
-pensionscheme 01/12/16
+pen_scheme 01/12/16

@@ -1,10 +1,10 @@
 ---
 sidebar_label: 'Change Printer'
 sidebar_position: 120
-id: changeprinter
-title: changeprinter
-description: changeprinter info
-slug: /rep_changeprinter
+id: rep_change_printer
+title: rep_change_printer
+description: rep_change_printer info
+slug: /rep_change_printer
 ---
 
 # Reports Change Printer
@@ -19,4 +19,4 @@ Select the default printer you want to use.
 <br/>
 <br/>
 <br/>
-###### rep_changeprinter 23/10/25
+###### rep_change_printer 23/10/25

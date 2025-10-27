@@ -1,10 +1,10 @@
 ---
 sidebar_label: 'Modify Reports'
 sidebar_position: 130
-id: modifyreports
-title: modifyreports
-description: modifyreports info
-slug: /rep_modifyreports
+id: rep_modify_reports
+title: rep_modify_reports
+description: rep_modify_reports info
+slug: /rep_modify_reports
 ---
 
 # Reports Modify the report layout.
@@ -33,4 +33,4 @@ ie myfile.frt & myfile.frx to myfileextra.frt & myfileextra.frx.
 <br/>
 <br/>
 <br/>
-###### rep_modifyreports 23/10/25
+###### rep_modify_reports 23/10/25

@@ -1,17 +1,17 @@
 ---
 sidebar_label: 'orders'
 sidebar_position: 40
-id: orders
+id: rep_orders
 title: Orders
-description: orders info
+description: rep_orders info
 slug: /rep_orders
 ---
 
 # Reports Orders
 
-### Report for orders/attachments per employee.
+### Report for rep_orders/attachments per employee.
 
-View the orders paid per employee.  
+View the rep_orders paid per employee.  
 
 **Attachment** All/Select.  
 **Employee** All/Select.  

@@ -1,10 +1,10 @@
 ---
-sidebar_label: 'Pay Aanalysis'
+sidebar_label: 'Pay Analysis'
 sidebar_position: 10
-id: payanalysis
-title: Payanalysis
-description: payanalysis info
-slug: /rep_payanalysis
+id: rep_pay_analysis
+title: rep_Pay_analysis
+description: rep_pay_analysis info
+slug: /rep_pay_analysis
 ---
 
 # Employees Pay Analysis
@@ -45,4 +45,4 @@ On the first report the last column displays the NIC Pay, this is so you can see
 <br/>
 <br/>
 <br/>
-###### rep_payanalysis 23/10/25
+###### rep_pay_analysis 23/10/25

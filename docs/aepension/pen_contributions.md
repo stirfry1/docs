@@ -1,10 +1,10 @@
 ---
 sidebar_label: 'Contributions'
 sidebar_position: 50
-id: contributions
-title: contributions
-description: contributions info
-slug: /contributions
+id: pen_contributions
+title: pen_contributions
+description: pen_contributions info
+slug: /pen_contributions
 ---
 
 # Pension Contributions
@@ -30,4 +30,4 @@ When you **Quit** you will have an option of confirming that you have sent the D
 <br/>
 <br/>
 <br/>
-###### contributions 23/10/25
+###### pen_contributions 23/10/25

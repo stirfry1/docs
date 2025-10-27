@@ -1,9 +1,9 @@
 ---
 sidebar_label: 'Export Data'
 sidebar_position: 110
-id: exportdata
-title: exportdata
-description: exportdata info
+id: rep_exportdata
+title: rep_exportdata
+description: rep_exportdata info
 slug: /rep_exportdata
 ---
 

@@ -72,7 +72,9 @@ Date they left the pension scheme. If they left with 30 days they may be entitle
  If an employee has not joined via AE status of 'Eligible' then enter the date joined here.
 
  <!-- See the [Pension Scheme](../aepension/pensionscheme.md) page for scheme-level settings. -->
- See the [Pension Scheme](../aepension/pensionscheme.md) page for scheme-level settings.
+ See the [Pension Scheme](../../aepension/pensionscheme.md) page for scheme-level settings. 
+
+
 
 <br/>
 <br/>

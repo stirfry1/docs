@@ -1,10 +1,10 @@
 ---
 sidebar_label: 'P32 Payment Record'
 sidebar_position: 70
-id: p32
-title: p32
-description: p32 info
-slug: /rep_p32
+id: p32_pr
+title: p32_pr
+description: p32_pr info
+slug: /rep_p32_pr
 ---
 
 # Reports P32

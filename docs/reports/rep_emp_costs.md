@@ -1,10 +1,10 @@
 ---
-sidebar_label: 'employee'
+sidebar_label: 'Employee Costs'
 sidebar_position: 50
-id: emp
-title: Emp
-description: emp info
-slug: /rep_emp
+id: rep_emp_costs
+title: rep_Emp_costs
+description: rep_emp_costs info
+slug: /rep_emp_costs
 ---
 
 # Reports Employee
@@ -20,4 +20,4 @@ Select the next employee by using the < > arrows
 <br/>
 <br/>
 <br/>
-###### rep_emp 23/10/25
+###### rep_emp_costs 23/10/25

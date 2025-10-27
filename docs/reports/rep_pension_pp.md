@@ -1,9 +1,9 @@
 ---
 sidebar_label: 'Pension Provider'
 sidebar_position: 31
-id: pensionpp
-title: pensionpp
-description: pension Provider info
+id: rep_pension_pp
+title: rep_pension_pp
+description: rep_pension_pp Provider info
 slug: /rep_pension_pp
 ---
 

@@ -1,10 +1,10 @@
 ---
-sidebar_label: 'Information'
+sidebar_label: 'Tax Treatment'
 sidebar_position: 10
-id: information
-title: information
-description: information info
-slug: /information
+id: pen_tax_info
+title: pen_tax_info
+description: pen_tax_info info
+slug: /pen_tax_info
 ---
 
 # Pensions Tax Treatment
@@ -95,4 +95,4 @@ https://www.gov.uk/workplace-pensions
 <br/>
 <br/>
 <br/>
-information 23/10/25
+pen_tax_info 23/10/25

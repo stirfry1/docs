@@ -1,9 +1,9 @@
 ---
 sidebar_label: 'P32 Monthly'
 sidebar_position: 71
-id: p32mt
-title: p32mt
-description: p32mt info
+id: p32_monthly
+title: p32_monthly
+description: p32_monthly info
 slug: /rep_p32_monthly
 ---
 

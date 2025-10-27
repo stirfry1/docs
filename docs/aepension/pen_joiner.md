@@ -1,10 +1,10 @@
 ---
 sidebar_label: 'Joiner Reports'
 sidebar_position: 40 
-id: joinerreports
-title: joinerreports
-description: joinerreports
-slug: /joinerreports
+id: pen_joiner
+title: pen_joiner
+description: pen_joiner Info
+slug: /pen_joiner
 ---
 
 # Joiner Reports
@@ -35,4 +35,4 @@ For Nest schemes you can send the information directly to Nest's computers.
 <br/>
 <br/>
 <br/>
-joiner 23/10/25
+pen_joiner 23/10/25

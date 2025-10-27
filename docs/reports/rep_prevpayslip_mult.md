@@ -1,10 +1,10 @@
 ---
 sidebar_label: 'Previous Payslips Multiple'
 sidebar_position: 91
-id: prevpaymult
-title: prevpaymult
-description: prevpayindevpaymult info
-slug: /rep_prevpaymult
+id: rep_prevpayslip_mult
+title: rep_prevpayslip_mult
+description: rep_prevpayslip_mult info
+slug: /rep_prevpayslip_mult
 ---
 
 # Reports Previous Payslips
