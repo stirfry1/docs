@@ -1,10 +1,10 @@
 ---
 sidebar_label: 'Adjustment'
 sidebar_position: 110
-id: adjustment
-title: adjustment
+id: pay_rep_adjustment
+title: pay_rep_adjustment
 description: adjustment info
-slug: /adjustment
+slug: /pay_rep_adjustment
 ---
 
 # Change the payroll amounts.
@@ -54,4 +54,4 @@ Print Reports.
 <br/>
 <br/>
 <br/>
-adjustment 17/10/25
+###### pay_rep_adjustment 27/10/25

@@ -1,10 +1,10 @@
 ---
 sidebar_label: 'Hours Worked'
 sidebar_position: 90
-id: hoursworked
-title: hoursworked
+id: pay_rep_hoursworked
+title: pay_rep_hoursworked
 description: hoursworked info
-slug: /hoursworked
+slug: /pay_rep_hoursworked
 ---
 
 # Displays the Hours worked.
@@ -27,4 +27,4 @@ Extra lets you save as a PDF, but you can also do this by Printing to 'Microsoft
 <br/>
 <br/>
 <br/>
-hoursworked 17/10/25
+###### pay_rep_hoursworked 27/10/25

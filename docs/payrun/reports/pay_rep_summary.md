@@ -1,15 +1,15 @@
 ---
-sidebar_label: 'Summary by Dept'
-sidebar_position: 20
-id: summarydept
-title: summarydept
-description: summarydept info
-slug: /summarydept
+sidebar_label: 'Summary for Period'
+sidebar_position: 10
+id: pay_rep_summary
+title: pay_rep_summary
+description: summary info
+slug: /pay_rep_summary
 ---
 
 # Get the default payroll reports for the period. 
 
-### Get the default payroll reports for the period by Department.
+### Get the default payroll reports for the period.
 
 **Range**  
 Select From & To if you wish to restrict the employees.
@@ -39,4 +39,4 @@ The payslip Layout can be changed in 'Reports/Modify Reports'.
 <br/>
 <br/>
 <br/>
-summary 17/10/25
+###### pay_rep_summary 27/10/25

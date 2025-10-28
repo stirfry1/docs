@@ -1,10 +1,10 @@
 ---
-sidebar_label: 'Transfer'
+sidebar_label: 'Bank Transfer'
 sidebar_position: 60
-id: transfer
-title: transfer
-description: transfer info
-slug: /transfer
+id: pay_rep_transfer
+title: pay_rep_transfer
+description: bank transfer info
+slug: /pay_rep_transfer
 ---
 
 # employees paid by transfer
@@ -29,4 +29,4 @@ A list of employees, payment, bank details, ref.
 <br/>
 <br/>
 <br/>
-transfer 17/10/25
+###### pay_rep_transfer 27/10/25

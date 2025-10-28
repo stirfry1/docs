@@ -1,10 +1,10 @@
 ---
 sidebar_label: 'Cheque'
 sidebar_position: 40
-id: cheque
-title: cheque
-description: ctaxnic info
-slug: /cheque
+id: pay_rep_cheque
+title: pay_rep_cheque
+description: cheque info
+slug: /pay_rep_cheque
 ---
 
 # Get a list of cheque payments 
@@ -30,4 +30,4 @@ The Layout can be changed in 'Reports/Modify Reports'.
 <br/>
 <br/>
 <br/>
-cheque 17/10/25
+###### pay_rep_cheque 27/10/25

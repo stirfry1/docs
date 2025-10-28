@@ -1,10 +1,10 @@
 ---
 sidebar_label: 'Labels'
 sidebar_position: 80
-id: labels
-title: labels
+id: pay_rep_labels
+title: pay_rep_labels
 description: labels info
-slug: /labels
+slug: /pay_rep_labels
 ---
 
 # Setup labels
@@ -24,4 +24,4 @@ Extra lets you save as a PDF, but you can also do this by Printing to 'Microsoft
 <br/>
 <br/>
 <br/>
-labels 17/10/25
+###### pay_rep_labels 27/10/25

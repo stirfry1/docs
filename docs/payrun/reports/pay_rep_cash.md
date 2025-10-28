@@ -1,10 +1,10 @@
 ---
 sidebar_label: 'Cash'
 sidebar_position: 30
-id: cash
-title: cash
-description: cash info
-slug: /cash
+id: pay_rep_cash
+title: pay_rep_cash
+description: pay_rep_cash info
+slug: /pay_rep_cash
 ---
 
 # Cash
@@ -15,4 +15,4 @@ slug: /cash
 <br/>
 <br/>
 <br/>
-cash 17/10/25
+###### pay_rep_cash 27/10/25

@@ -1,10 +1,10 @@
 ---
 sidebar_label: 'Payslip12'
 sidebar_position: 20
-id: payslip12
-title: payslip12
-description: payslip12 info
-slug: /payslip12
+id: payslip_12
+title: payslip_12
+description: payslip_12 info
+slug: /payslip_12
 ---
 
 # Get the 12 item payslip layout 
@@ -42,4 +42,4 @@ The payslip Layout can be changed in 'Reports/Modify Reports'.
 <br/>
 <br/>
 <br/>
-payslip12 17/10/25
+###### payslip12 17/10/25

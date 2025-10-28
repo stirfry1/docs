@@ -1,18 +1,17 @@
 ---
-sidebar_label: 'Payslip Commercial'
-sidebar_position: 50
-id: payslipcommercial
-title: payslipcomemrcial
-description: payslipcomemrcial info
-slug: /payslipcommercial
+sidebar_label: 'Payslipdetail'
+sidebar_position: 30
+id: payslip_detail
+title: payslip_detail
+description: payslip_detail info
+slug: /payslip_detail
 ---
 
-# Get the Sage/Iris payslip layout 
+# Get the unlimited item payslip layout 
 
-### Output Choices for Sage/Iris commercial Payslips.
+### Output Choices for unlimited Item Payslips.
 
-You can use commercial payslips from Sage / Iris. 
-We do not recommend you use these layouts.
+These payslips show unlimited detail lines of pay headings.
 
 **Range**  
 Select From & To if you wish to restrict the employees.
@@ -24,9 +23,6 @@ Gives the layouts for 8 Items.
 Choice of **Display, Print, Extra**.  
 Extra lets you save as a PDF, but you can also do this by Printing to 'Microsoft Print to PDF'
 
-**Order**  
-You can get the output in Department Order.
-
 The details of the payroll layout used is displayed in the yellow box.  
 The payslip Layout can be changed in 'Reports/Modify Reports'.
 <br/>
@@ -34,5 +30,4 @@ The payslip Layout can be changed in 'Reports/Modify Reports'.
 <br/>
 <br/>
 <br/>
-payslipcommercial 17/10/25
-
+###### payslip_detail 17/10/25

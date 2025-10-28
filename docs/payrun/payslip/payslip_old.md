@@ -1,10 +1,10 @@
 ---
 sidebar_label: 'Payslip Old'
 sidebar_position: 60
-id: payslipold
-title: payslipold
-description: payslipold info
-slug: /payslipold
+id: payslip_old
+title: payslip_old
+description: payslip_old info
+slug: /payslip_old
 ---
 
 # Get the old 8 item payslip layout 
@@ -44,5 +44,4 @@ The payslip Layout can be changed in 'Reports/Modify Reports'.
 <br/>
 <br/>
 <br/>
-payslipold 17/10/25
-
+###### payslip_old 17/10/25

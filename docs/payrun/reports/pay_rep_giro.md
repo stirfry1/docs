@@ -1,10 +1,10 @@
 ---
 sidebar_label: 'Giro'
 sidebar_position: 50
-id: giro
-title: giro
+id: pay_rep_giro
+title: pay_rep_giro
 description: giro info
-slug: /giro
+slug: /pay_rep_giro
 ---
 
 # Get a list of Giro payments 
@@ -28,7 +28,7 @@ The Layout can be changed in 'Reports/Modify Reports'.
 <br/>
 <br/>
 <br/>
-giro 17/10/25
+###### pay_rep_giro 27/10/25
 
 
 

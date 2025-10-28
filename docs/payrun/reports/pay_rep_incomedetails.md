@@ -1,10 +1,10 @@
 ---
 sidebar_label: 'Income Details'
 sidebar_position: 100
-id: incomedetails
-title: incomedetails
+id: pay_rep_incomedetails
+title: pay_rep_incomedetails
 description: incomedetails info
-slug: /incomedetails
+slug: /pay_rep_incomedetails
 ---
 
 # Displays Pay Headings values.
@@ -25,5 +25,5 @@ Extra lets you save as a PDF, but you can also do this by Printing to 'Microsoft
 <br/>
 <br/>
 <br/>
-incomedetails 17/10/25
+###### pay_rep_incomedetails 27/10/25
 
