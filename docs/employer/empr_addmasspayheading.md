@@ -1,10 +1,10 @@
 ---
 sidebar_label: 'Add Mass Payheading'
-sidebar_position: 5
-id: addmasspayheading
+sidebar_position: 50
+id: empr_addmasspayheading
 title: addmasspayheading
 description: addmasspayheading info
-slug: /addmasspayheading
+slug: /empr_addmasspayheading
 ---
 
 # Add Mass Pay Headings to Employees
@@ -34,4 +34,4 @@ Abandons the changes
 <br/>
 <br/>
 <br/>
-payheadingsmassaddc12/5/09
+###### empr_payheadingsmassaddc12/5/09
