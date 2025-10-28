@@ -74,6 +74,9 @@ See Also [Employee/EmployeeDetails/Pension](../employee/employeedetails/employee
 | Lower level of qualifying earnings       | £6,240  | £120   | £240      | £480    | £520    |
 | Earnings trigger for automatic enrolment | £10,000 | £192   | £384      | £768    | £833    |
 | Upper level of qualifying earnings       | £50,270 | £967   | £1,934    | £3,867  | £4,189  |
-
-
-pen_scheme 01/12/16
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+###### pen_scheme 27/10/25
