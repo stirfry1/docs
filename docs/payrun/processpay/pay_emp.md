@@ -1,10 +1,10 @@
 ---
 sidebar_label: 'Emp'
 sidebar_position: 60
-id: emp
+id: pay_emp
 title: emp
 description: emp info
-slug: /emp
+slug: /pay_emp
 ---
 
 # Employee
@@ -19,6 +19,7 @@ This will save you from needing to abandon the payrun in order to change the emp
 <br/>
 <br/>
 <br/>
-emp 17/10/25
+
+###### pay_emp 27/10/25
 
 

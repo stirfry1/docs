@@ -1,10 +1,10 @@
 ---
 sidebar_label: 'Pension'
 sidebar_position: 70
-id: pension
+id: pay_pension
 title: pension
 description: pension info
-slug: /pension
+slug: /pay_pension
 ---
 
 # Pension
@@ -50,12 +50,4 @@ The **fields** in the 'Employee/EmployeeDetail/Pension' are reproduced here for 
 <br/>
 <br/>
 <br/>
-pension 17/10/25
-
-
-
-
-19/05/15
-
-
-
+###### pay_pension 27/10/25

@@ -1,10 +1,10 @@
 ---
 sidebar_label: 'Calc'
 sidebar_position: 10
-id: calc
+id: pay_calc
 title: calc
 description: calc info
-slug: /calc
+slug: /pay_calc
 ---
 
 # Process Payroll
@@ -90,4 +90,4 @@ The TaxCode, Wk1 basis, NicLetter, Pay Frequency are displayed for your informat
 <br/>
 <br/>
 <br/>
-calc 17/10/25
+###### pay_calc 27/10/25

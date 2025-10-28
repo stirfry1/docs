@@ -1,10 +1,10 @@
 ---
 sidebar_label: 'Parenting'
 sidebar_position: 20
-id: parenting
+id: pay_parenting
 title: parenting
 description: parenting info
-slug: /parenting
+slug: /pay_parenting
 ---
 
 # PARENTING
@@ -32,4 +32,4 @@ Keep In Touch days can be entered here for SMP & SAP.
 <br/>
 <br/>
 <br/>
-parenting 17/10/25
+###### pay_parenting 27/10/25

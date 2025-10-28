@@ -1,10 +1,10 @@
 ---
 sidebar_label: 'Shpp'
 sidebar_position: 50
-id: shpp
+id: pay_shpp
 title: shpp
 description: shpp info
-slug: /shpp
+slug: /pay_shpp
 ---
 
 # ShPP
@@ -17,4 +17,4 @@ You can enter **S.P.L.I.T. Days**
 <br/>
 <br/>
 <br/>
-shpp 17/10/25
+###### pay_shpp 27/10/25

@@ -1,10 +1,10 @@
 ---
 sidebar_label: 'Sundry'
 sidebar_position: 30
-id: sundry
+id: pay_sundry
 title: sundry
 description: sundry info
-slug: /sundry
+slug: /pay_sundry
 ---
 
 # SUNDRY
@@ -24,4 +24,4 @@ Information as to how the figures are arrived at.
 <br/>
 <br/>
 <br/>
-sundry 17/10/25
+###### pay_sundry 27/10/25

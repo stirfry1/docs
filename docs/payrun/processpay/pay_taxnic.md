@@ -1,10 +1,10 @@
 ---
 sidebar_label: 'Tax & Nic'
 sidebar_position: 40
-id: taxnic
+id: pay_taxnic
 title: taxnic
 description: ctaxnic info
-slug: /taxnic
+slug: /pay_taxnic
 ---
 
 # TAX & NIC
@@ -17,4 +17,4 @@ THIS period is the lower set of figures.
 <br/>
 <br/>
 <br/>
-taxnic 17/10/25
+###### pay_taxnic 27/10/25
