@@ -1,10 +1,10 @@
 ---
-sidebar_label: 'Employer Bank'
+sidebar_label: 'Bank'
 sidebar_position: 30
-###### id: empr_empl27erbank
+id: empr_bank
 title: Employer Bank
 description: Employer Bank info
-###### slug: /empr_empl27erbank
+slug: /empr_bank
 ---
 
 # Bank
@@ -29,4 +29,4 @@ You can show on the payslip the number of outstanding holidays that are due.You 
 <br/>
 <br/>
 <br/>
-###### empr_employerbank 27/10/25
+###### empr_bank 27/10/25

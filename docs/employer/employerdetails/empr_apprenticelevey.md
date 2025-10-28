@@ -1,10 +1,10 @@
 ---
-sidebar_label: 'Employer Apprentice'
+sidebar_label: 'Apprentice'
 sidebar_position: 60
-id: empr_employerapprentice
+id: empr_apprentice
 title: Employer Apprentice
-description: EmployerA pprentice info
-slug: /empr_employerapprentice
+description: Employer Apprentice info
+slug: /empr_apprentice
 ---
 
 # Apprentice Levy

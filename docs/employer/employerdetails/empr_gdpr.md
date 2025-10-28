@@ -1,10 +1,10 @@
 ---
-sidebar_label: 'Employer GDPR'
+sidebar_label: 'GDPR'
 sidebar_position: 70
-id: employergdpr
+id: empr_gdpr
 title: Employer Gdpr
 description: Employer Gdpr info
-slug: /employergdpr
+slug: /empr_gdpr
 ---
 
 # GDPR
@@ -25,4 +25,4 @@ This is not in use.
 <br/>
 <br/>
 <br/>
-###### empr_employergdpr 16/10/25
+###### empr_gdpr 27/10/25

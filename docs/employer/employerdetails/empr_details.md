@@ -1,10 +1,10 @@
 ---
-sidebar_label: 'Employer Details'
+sidebar_label: 'Details'
 sidebar_position: 10
-id: employerdetails
+id: empr_details
 title: Employerdetails
 description: Employer details info
-slug: /employerdetails
+slug: /empr_details
 ---
 
 # Employer Details
@@ -49,4 +49,4 @@ Employment Allowance claim -->
 <br/>
 <br/>
 <br/>
-###### empr_employerdetails 27/10/25
+###### empr_details 27/10/25

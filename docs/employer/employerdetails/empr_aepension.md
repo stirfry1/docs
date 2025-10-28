@@ -1,10 +1,10 @@
 ---
-sidebar_label: 'Employer A.E.Pension'
+sidebar_label: 'A.E.Pension'
 sidebar_position: 40
-id: empr_employerdAEPension
+id: empr_AEPension
 title: EmployerAEPension
 description: Employer AEPension info
-slug: /empr_employeraepension
+slug: /empr_aepension
 ---
 
 # Employer A.E. Pension
@@ -67,4 +67,4 @@ see also Pension Nest CS  for details regarding above.
 <br/>
 <br/>
 <br/>
-###### empr_employeraepension 27/10/25
+###### empr_aepension 27/10/25

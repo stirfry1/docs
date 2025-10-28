@@ -1,10 +1,10 @@
 ---
-sidebar_label: 'Employer Tax Office'
+sidebar_label: 'Tax Office'
 sidebar_position: 20
-id: employerdTax Office
+id: empr_Tax Office
 title: EmployerTax Office
 description: Employer Tax Office info
-slug: /employertaxoffice
+slug: /empr_taxoffice
 ---
 
 # Tax Office
@@ -62,4 +62,4 @@ See also [Agent Info](../../file/agentinfo.md)
 <br/>
 <br/>
 <br/>
-###### empr_employertaxoffice 24/10/13
+###### empr_taxoffice 24/10/13
