@@ -1,10 +1,10 @@
 ---
 sidebar_label: 'Tax'
 sidebar_position: 10
-id: govtax
+id: gov_tax
 title: GovTax
 description: tax info
-slug: /govtax
+slug: /gov_tax
 ---
 
 # Government Tax
@@ -49,4 +49,4 @@ This is 06/04/XX where XX is the start year.
 <br/>
 <br/>
 <br/>
-###### govtax 23/10/25
+###### gov_tax 23/10/25

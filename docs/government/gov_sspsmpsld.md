@@ -1,10 +1,10 @@
 ---
 sidebar_label: 'Ssp Smp Sld'
 sidebar_position: 30
-id: govsspsmpsld
-title: govSspsmpsld
+id: gov_sspsmpsld
+title: gov_Sspsmpsld
 description: sspsmpsld info
-slug: /govsspsmpsld
+slug: /gov_sspsmpsld
 ---
 
 # Government SSP, Parenting, SLD
@@ -101,4 +101,4 @@ Calculated from above.
 <br/>
 <br/>
 <br/>
-###### govsspsmpsld 23/10/25
+###### gov_sspsmpsld 23/10/25

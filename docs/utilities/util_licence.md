@@ -1,7 +1,8 @@
 ---
 sidebar_label: 'licence'
 sidebar_position: 60
-id: util_ulicencetitle: licence
+id: util_ulicence
+title: licence
 description: util_licence info
 slug: /util_licence
 ---

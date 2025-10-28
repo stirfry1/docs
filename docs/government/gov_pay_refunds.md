@@ -1,10 +1,10 @@
 ---
 sidebar_label: 'Gov Payments and Refunds'
 sidebar_position: 40
-id: govpaymentsandrefunds
-title: Govpaymentsandrefunds
+id: gov_paymentsandrefunds
+title: Gov_paymentsandrefunds
 description: govpaymentsandrefunds info
-slug: /govpayrefunds
+slug: /gov_pay_refunds
 ---
 
 # Gov. Payments and Refunds to Collector of Taxes
@@ -15,16 +15,9 @@ slug: /govpayrefunds
 Enter the Monthly/Quarterly Payment to HMRC.  
 You can also record any CIS Deductions Suffered, these are reported on the EPS.
 
-
-
- 
-
- 
-
- 
 <br/>
 <br/>
 <br/>
 <br/>
 <br/>
-###### govpayerefunds 23/10/25
+###### gov_pay_refunds 23/10/25

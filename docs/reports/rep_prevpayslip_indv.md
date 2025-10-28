@@ -4,7 +4,7 @@ sidebar_position: 90
 id: rep_prevpayslip_indv
 title: rep_prevpayslip_indv
 description: rep_prevpayslip_indv info
-slug: /rep_prevpayslipv_ind
+slug: /rep_prevpayslip_indv
 ---
 
 # Reports Previous Payslips Individual

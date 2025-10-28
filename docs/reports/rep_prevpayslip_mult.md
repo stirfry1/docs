@@ -1,10 +1,10 @@
 ---
 sidebar_label: 'Previous Payslips Multiple'
 sidebar_position: 91
-id: rep_prevpayslip_mult
-title: rep_prevpayslip_mult
-description: rep_prevpayslip_mult info
-slug: /rep_prevpayslip_mult
+id: rep_prevpayslip_multi
+title: rep_prevpayslip_multi
+description: rep_prevpayslip_multi info
+slug: /rep_prevpayslip_multi
 ---
 
 # Reports Previous Payslips
@@ -36,4 +36,4 @@ Views/Prints the payslips.
 <br/>
 <br/>
 <br/>
-###### rep_prevpayslip_mult 23/10/25
+###### rep_prevpayslip_multi 23/10/25

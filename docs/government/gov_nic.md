@@ -1,10 +1,10 @@
 ---
-sidebar_label: 'Nic'
+sidebar_label: 'Nic Info'
 sidebar_position: 20
-id: govnic
+id: gov_nic
 title: GovNic
 description: nic info
-slug: /govnic
+slug: /gov_nic
 ---
 
 # Government NIC
@@ -62,4 +62,4 @@ For more information about NIC letters, please visit the [NIC Letters](../sundry
 <br/>
 <br/>
 <br/>
-###### govnic 23/10/25
+###### gov_nic 23/10/25

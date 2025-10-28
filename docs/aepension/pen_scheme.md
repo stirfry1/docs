@@ -4,7 +4,7 @@ sidebar_position: 20
 id: pen_scheme
 title: pen_scheme
 description: pen_scheme info
-slug: /aepension/pen_scheme
+slug: /pen_scheme
 ---
 
 # Pensions Schemes
