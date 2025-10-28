@@ -1,10 +1,10 @@
 ---
 sidebar_label: 'Password Security'
 sidebar_position: 10
-id: passwordsecurity
+id: util_password
 title: Password Security
-description: passwordsecurity info
-slug: /passwordsecurity
+description: password info
+slug: /util_password
 ---
 
 # Change Password
@@ -48,4 +48,9 @@ This adds a new user
 
 **Reset Password**\
 This will, for the user you have highlighted, revert the password to the default (0604).
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+###### util_password 27/10/25

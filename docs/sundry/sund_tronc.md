@@ -1,10 +1,10 @@
 ---
 sidebar_label: 'Tronc'
 sidebar_position: 10
-id: tronc
+id: sund_tronc
 title: tronc
 description: tronc info
-slug: /tronc
+slug: /sund_tronc
 ---
 
 # Tronc
@@ -23,4 +23,4 @@ You need to consider the time costs of running the scheme are less than the NIC 
 <br/>
 <br/>
 <br/>
-###### tronc 27/10/25
+###### sund_tronc 27/10/25

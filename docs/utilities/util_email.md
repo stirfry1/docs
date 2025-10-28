@@ -1,10 +1,10 @@
 ---
 sidebar_label: 'Email Settings'
-sidebar_position: 10
-id: emailsettings
+sidebar_position: 20
+id: util_emailsettings
 title: Email Settings
 description: emailsettings info
-slug: /Emailsettings
+slug: /util_emailsettings
 ---
 
 # Email Settings
@@ -118,8 +118,9 @@ Use Authen : Ticked\
 Use SSL    : Ticked\
 
 In 'Employer/EmployerDetails/Email' you MUST enter the full email (eg 'support@calcpay.co.uk').
-
-
-
-
-emailsettings 11/7/11
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+###### util_email 27/10/25

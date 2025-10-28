@@ -1,10 +1,10 @@
 ---
 sidebar_label: 'NicLetters'
 sidebar_position: 10
-id: nicletters
+id: sund_nicletters
 title: Nicletters
 description: nicletters info
-slug: /nicletters
+slug: /sund_nicletters
 ---
 
 # Nic Letters
@@ -90,5 +90,5 @@ https://www.gov.uk/national-insurance-rates-letters/category-letters
 
 
 
-###### nicletters 15/02/25
+###### sund_nicletters 15/02/25
 
