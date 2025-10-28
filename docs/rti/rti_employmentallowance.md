@@ -1,10 +1,10 @@
 ---
 sidebar_label: 'Employment Allowance'
 sidebar_position: 70
-id: employmentallowance
+id: rti_employmentallowance
 title: employmentallowance
 description: employmentallowance info
-slug: /employmentallowance
+slug: /rti_employmentallowance
 ---
 
 # Claim Employment Allowance.
@@ -41,5 +41,4 @@ If you have taken over an employer which has previously sent in a E.A. claim you
 <br/>
 <br/>
 <br/>
-employmentallowance  17/10/25
-
+###### rti_employmentallowance  27/10/25

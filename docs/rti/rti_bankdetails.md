@@ -1,10 +1,10 @@
 ---
 sidebar_label: 'Bank Details'
 sidebar_position: 50
-id: bankdetails
+id: rti_bankdetails
 title: bankdetails
 description: bankdetails info
-slug: /bankdetails
+slug: /rti_bankdetails
 ---
 
 # Send Bank Details
@@ -32,4 +32,4 @@ All submissions and HMRC responses are saved in **'Gateway/GatewayHistory'**
 <br/>
 <br/>
 <br/>
-bankdetails 17/10/25
+###### rti_bankdetails 27/10/25

@@ -1,10 +1,10 @@
 ---
 sidebar_label: 'Nino Request'
 sidebar_position: 40
-id: ninorequest
+id: rti_ninorequest
 title: ninorequest
 description: ninorequest info
-slug: /ninorequest
+slug: /rti_ninorequest
 ---
 
 # NINO Verification Request (NVR)
@@ -29,4 +29,4 @@ All submissions and HMRC responses are saved in **'Gateway/GatewayHistory'**
 <br/>
 <br/>
 <br/>
-ninorequest 17/10/25
+###### rti_ninorequest 27/10/25

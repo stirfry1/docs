@@ -1,10 +1,10 @@
 ---
 sidebar_label: 'EPS'
 sidebar_position: 20
-id: eps
+id: rti_eps
 title: eps
 description: eps info
-slug: /eps
+slug: /rti_eps
 ---
 
 # Employer Payment Summary (EPS)
@@ -65,4 +65,4 @@ All submissions and HMRC responses are saved in **'Gateway/GatewayHistory'**
 <br/>
 <br/>
 <br/>
-eps 17/10/25
+###### rti_eps 27/10/25

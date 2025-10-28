@@ -1,10 +1,10 @@
 ---
 sidebar_label: 'FPS'
 sidebar_position: 10
-id: fps
+id: rti_fps
 title: fps
 description: fps info
-slug: /fps
+slug: /rti_fps
 ---
 
 # Full Payment Submission FPS
@@ -45,4 +45,4 @@ All submissions and HMRC responses are saved in **'Gateway/GatewayHistory'**
 <br/>
 <br/>
 <br/>
-fps 17/10/25 
+###### rti_fps 27/10/25 
