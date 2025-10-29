@@ -74,6 +74,13 @@ The 'Manually enter Employment Allowance' in 'Employer/EmployerDetails/Apprentic
 
 After you have done the above you want to check that the employees have all been entered.
 'Reports/P32/P32PaymentRecord' to check the totals agree with the old system.
+
+The following information needs to be manually entered:  
+DOB  
+Date Start  
+Pay Headings and Rates.  
+Pension Scheme to apply.  
+
 <br/>
 <br/>
 <br/>

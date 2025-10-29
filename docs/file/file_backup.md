@@ -10,12 +10,12 @@ slug: /file_backup
 # Backup
 
 ## This is where you backup your payroll data.
-Remember that the computer you are using WILL breakdown sometime. It also might get stolen or destroyed (fire). The Pay26 year is used in the examples ie 'c:\calcpay\pay25_26\'
+Remember that the computer you are using WILL break eventually. It also might get stolen or destroyed (fire). The Pay26 year is used in the examples ie 'c:\calcpay\pay25_26\'
 
 Taking a backup of your data files is VERY important. It should be done every time you add information.
 We recommend that you should backup after every wage run.  
 We also suggest that a backup is kept off site.  
-You could save the backup to a USB disk, or to a folder on your machine that is backedup via say Microsoft's OneDrive or Google's  Drive.
+You could save the backup to a USB disk, or to a folder on your machine that is backed up via say Microsoft's OneDrive or Google's  Drive.
 
 The backup files are saved to a ZIP file. This file is encrypted with a default password and after purchasing a licence, the password is your Registration No.
 
