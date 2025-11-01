@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Dir Nic Calc'
-sidebar_position: 52
+sidebar_position: 62
 id: util_dirniccalc
 title: dirniccalc
 description: util_dirniccalc info

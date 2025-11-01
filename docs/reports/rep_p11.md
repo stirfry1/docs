@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'P11l'
+sidebar_label: 'P11'
 sidebar_position: 40
 id: rep_p11
 title: rep_p11

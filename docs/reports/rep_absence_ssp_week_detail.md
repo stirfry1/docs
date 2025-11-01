@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Absence SSP'
-sidebar_position: 80
+sidebar_position: 24
 id: rep_absence_ssp_week_detail
 title: rep_absence_ssp_week_detail
 description: rep_absence_ssp_week_detail info

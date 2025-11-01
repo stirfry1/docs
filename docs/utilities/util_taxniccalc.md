@@ -1,6 +1,6 @@
 ---
-sidebar_label: 'Tax&Nic Calculator'
-sidebar_position: 50
+sidebar_label: 'Tax & Nic Calculator'
+sidebar_position: 60
 id: util_taxniccalc
 title: taxniccalc
 description: util_taxniccalc info

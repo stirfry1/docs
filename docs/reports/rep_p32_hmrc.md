@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'P32 Hmrc'
-sidebar_position: 71
+sidebar_position: 74
 id: p32_hmrc
 title: p32_hmrc
 description: p32_hmrc info

@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'EPS'
+sidebar_label: 'Employer Payment Summary'
 sidebar_position: 20
 id: rti_eps
 title: eps

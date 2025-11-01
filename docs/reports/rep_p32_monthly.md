@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'P32 Monthly'
-sidebar_position: 71
+sidebar_position: 72
 id: p32_monthly
 title: p32_monthly
 description: p32_monthly info

@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Absence SSP'
-sidebar_position: 80
+sidebar_position: 20
 id: rep_absence_ssp
 title: rep_absence_ssp
 description: rep_absence_ssp info

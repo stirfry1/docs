@@ -1,6 +1,6 @@
 ---
-sidebar_label: 'licence'
-sidebar_position: 60
+sidebar_label: 'Registration'
+sidebar_position: 80
 id: util_registratione
 title: registration
 description: util_registration info

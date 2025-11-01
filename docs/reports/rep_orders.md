@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'orders'
+sidebar_label: 'Orders / Attachments'
 sidebar_position: 40
 id: rep_orders
 title: Orders

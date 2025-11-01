@@ -1,16 +1,16 @@
 ---
 sidebar_label: 'Information'
-sidebar_position: 60
+sidebar_position: 50
 id: util_information
 title: information
-description: util_linformationinfo
-slug: /util_linformation---
+description: util_informationinfo
+slug: /util_linformation
+---
 
 # Licence Info.
 
-### Licence info.
+### Licence info.  
 
-Info
 <br/>
 <br/>
 <br/>

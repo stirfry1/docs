@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'licence'
-sidebar_position: 60
+sidebar_position: 70
 id: util_licence
 title: licence
 description: util_licence info

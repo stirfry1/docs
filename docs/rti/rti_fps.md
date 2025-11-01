@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'FPS'
+sidebar_label: 'Full Payment Submission'
 sidebar_position: 10
 id: rti_fps
 title: fps
