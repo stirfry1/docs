@@ -7,7 +7,7 @@ description: util_clear_cum_totals info
 slug: /util_clear_cum_totals
 ---
 
-# Licence Info.
+# Cumulative Totals.
 
 ### This clears the cumulative totals..
 **Select**  

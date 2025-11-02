@@ -7,7 +7,7 @@ description: util_mass_tax_code_change info
 slug: /util_mass_tax_code_change
 ---
 
-# Licence Info.
+# Mass Tax Code change.
 
 ### This allows a Mass change of Tax Code.  
 This is normally used when there has been a general update of the 'L' codes from the beginning of the PAYE year.

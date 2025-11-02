@@ -1,10 +1,10 @@
 ---
 sidebar_label: 'Create New Employer'
 sidebar_position: 40
-###### id: file_newemployer
+id: file_newemployer
 title: New Employer
 description: New Employer info
-###### slug: /file_newemployer
+slug: /file_newemployer
 ---
 
 # This is where you create a new employer.

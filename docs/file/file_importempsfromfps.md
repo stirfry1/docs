@@ -1,10 +1,10 @@
 ---
 sidebar_label: 'Import Employees from FPS'
 sidebar_position: 60
-id: file_importEmployeesfromfps
-title: ImportEmployees from FPS
+id: file_importEmpsfromfps
+title: ImportEmp from FPS
 description: importp Employees from FPS info
-slug: /file_importemployeesfromfps
+slug: /file_importempsfromfps
 ---
 
 # Import Employees from a FPS
@@ -86,4 +86,4 @@ Pension Scheme to apply.
 <br/>
 <br/>
 <br/>
-###### file_importemployeesfromfps 27/10/25
+###### file_importempsfromfps 27/10/25

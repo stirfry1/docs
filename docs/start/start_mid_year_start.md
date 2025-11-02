@@ -32,7 +32,7 @@ CalcPay information should now agree with your manual records, check this by pre
 
 Please note that calcpay will NOT be able to calculate SSP SMP SPM SAP refunds correctly, in the P32, for the pre-entered period. Adjust for this in the P32 & P35 computations.
 
-See also [More Info](../utilities/util_midyearstart.md)
+<!-- See also [More Info](utilities/util_midyearstart.md) -->
 <br/>
 <br/>
 <br/>

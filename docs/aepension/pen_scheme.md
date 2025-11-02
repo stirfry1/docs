@@ -66,7 +66,7 @@ Administrator: enter smartpension, notice no capitals or spaces.
 EPSR is only the ref no, it does not include the name.  
 In 'EmployeeDetails/Pension/Group' the normal entry is 'default',  note all lower case.  
 
-See Also [Employee/EmployeeDetails/Pension](../employee/employeedetails/employeepension.md)
+See Also [Employee/EmployeeDetails/Pension](../employee/employeedetails/emp_pension.md)
 
 **2025_26**
 | Pay reference period                     | Annual  | 1 week | Fortnight | 4 weeks | 1 month |

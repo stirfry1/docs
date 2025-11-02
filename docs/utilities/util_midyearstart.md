@@ -1,10 +1,10 @@
 ---
 sidebar_label: 'Mid Year Entry'
 sidebar_position: 40
-id: util_midyearentry
-title: util_midyearentry
-description: util_midyearentry info
-slug: /util_midyearentry
+id: util_midyearstart
+title: util_midyearstart
+description: util_midyearstart info
+slug: /util_midyearstart
 ---
 
 # Mid Year Start

@@ -56,7 +56,7 @@ Normally payments to Collector of taxes need to be made monthly (within 15 days 
 
 <!-- How to pay PAYE/Class 1 National Insurance contributions/CIS -->
 
-See also [Agent Info](../../file/agentinfo.md)
+See also [Agent Info](../../file/file_agentinfo.md)
 <br/>
 <br/>
 <br/>

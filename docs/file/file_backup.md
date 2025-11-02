@@ -45,7 +45,7 @@ Leave without doing anything.
 **Use default password**  
 If this is ticked the ZIP file is encrypted with the default password, this means anyone with a current copy of CalcPay can restore from it.
  
-See also [Restore](./restore.md)
+See also [Restore](./file_restore.md)
 <br/>
 <br/>
 <br/>

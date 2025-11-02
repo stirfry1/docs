@@ -4,7 +4,7 @@ sidebar_position: 50
 id: util_information
 title: information
 description: util_informationinfo
-slug: /util_linformation
+slug: /util_information
 ---
 
 # Licence Info.

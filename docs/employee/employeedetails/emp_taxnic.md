@@ -65,7 +65,8 @@ You can apply for the N.I.no via RTI/NINO Request Check.
 
 **NIC Letter**  
 Use the drop down to choose the correct NIC letter. 
-For more information about NIC letters, please visit the [NIC Letters](nicletters) page.
+<!-- For more information about NIC letters, please visit the [NIC Letters](../../sundry/sund_nicletters) page. -->
+https://www.gov.uk/national-insurance-rates-letters/category-letters
 
 **Tax Code.**  
 This is where the tax code you have been informed to use, from the HMRC, is entered.  

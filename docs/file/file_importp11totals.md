@@ -1,10 +1,10 @@
 ---
 sidebar_label: 'Import P11 Totals'
 sidebar_position: 80
-id: file_importp11
-title: importp11
-description: importp11 info
-slug: /file_importp11
+id: file_importp11totals
+title: importp11totals
+description: importp11totals info
+slug: /file_importp11totals
 ---
 
 # Import P11 Totals

@@ -55,7 +55,7 @@ https://www.gov.uk/national-insurance-rates-letters/contribution-rates
 
 The other page display the **NIC Bands, Letters,  and Rates**
 
-For more information about NIC letters, please visit the [NIC Letters](../sundry/nicletters.md) page.
+For more information about NIC letters, please visit the [NIC Letters](../sundry/sund_nicletters.md) page.
 
 <br/>
 <br/>

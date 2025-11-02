@@ -1,15 +1,15 @@
 ---
-sidebar_label: 'Overview'
+sidebar_label: 'Overview Starting'
 sidebar_position: 60
 id: start_overview
-title: overview
-description: start_loverviewinfo
+title: start_overview
+description: start_overview info
 slug: /start_overview
 ---
 
-# Licence Info.
+# Overview to get Started.
 
-### Licence info.
+### Starting info.
 
 Info
 <br/>

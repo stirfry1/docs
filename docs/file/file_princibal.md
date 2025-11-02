@@ -1,10 +1,10 @@
 ---
-sidebar_label: 'Agent Info'
+sidebar_label: 'Princibal Info'
 sidebar_position: 50
-id: file_agent
+id: file_princibal
 title: agent
-description: agent info
-slug: /file_agent
+description: princibal info
+slug: /file_princibal
 ---
 
 # Agent Information
@@ -23,4 +23,4 @@ You only need to enter the fields marked with a 'R', ie Name, User ID, Password.
 <br/>
 <br/>
 <br/>
-file_agentinfo 15/10/25
+file_princibalinfo 15/10/25
