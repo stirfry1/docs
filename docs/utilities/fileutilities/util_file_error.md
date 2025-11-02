@@ -1,10 +1,10 @@
 ---
 sidebar_label: 'Error Files'
 sidebar_position: 60
-id: util_file_error_files
-title: error_files
-description: error_files info
-slug: /util_file_error_files
+id: util_file_error
+title: error
+description: error info
+slug: /util_file_error
 ---
 
 # Display Errors
@@ -16,4 +16,4 @@ It will display the latest errors in CalcPay.
 <br/>
 <br/>
 <br/>
-###### util_file_error_files 27/10/25
+###### util_file_error 27/10/25
