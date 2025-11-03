@@ -11,7 +11,11 @@ slug: /emp_spp
 
 ### ORDINARY STATUTORY PATERNITY PAY
 
-Where the employee is a partner (need not be a man) of a person who is expecting or adopting a child, they are entitled to up to 2 weeks paid leave. See SPP  for further information
+Where the employee is a partner (need not be a man) of a person who is expecting or adopting a child, they are entitled to up to 2 weeks paid leave. See SPP  for further information.  
+
+The two weeks need not be consecutive.  
+The first week needs to be on or after the Date of Birth / Date of Placement.  
+Leave must finish within 52 weeks of the birth (or due date, if the baby is early).  
 
 HMRC calculator may show the calculation on a daily basis, CalcPay calculates on a weekly basis, the week needs to be completed in the pay period.
 
